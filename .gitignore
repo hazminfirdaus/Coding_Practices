@@ -1,0 +1,20 @@
+# Ignore OS junk
+.DS_Store
+
+# Node / npm
+node_modules/
+
+# PHP / Composer
+vendor/
+.env
+
+# Python
+__pycache__/
+
+# Logs
+*.log
+
+# Compiled / IDE files
+*.class
+.idea/
+.vscode/

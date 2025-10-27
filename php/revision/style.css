@@ -1,0 +1,184 @@
+/* -------------------------------------
+   🧠 PHP Revision Page Styles
+   Supports system theme + manual toggle
+-------------------------------------- */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  min-height: 100vh;
+  padding: 2rem;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+/* ---------------------------
+   🌙 Default: Dark Mode
+---------------------------- */
+body {
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  color: #e2e8f0;
+}
+
+h1, h2, h3 {
+  color: #38bdf8;
+  margin-bottom: 0.5em;
+}
+
+h1 { font-size: 2rem; margin-top: 1rem; }
+h2 {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  border-bottom: 2px solid #38bdf8;
+  display: inline-block;
+  padding-bottom: 0.25rem;
+}
+h3 { margin-top: 1.5rem; color: #93c5fd; }
+
+p { margin-bottom: 1rem; color: #cbd5e1; }
+
+ul {
+  list-style: square;
+  padding-left: 1.5rem;
+  margin-top: 0.5rem;
+}
+li { margin-bottom: 0.5rem; }
+
+footer {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #334155;
+  text-align: center;
+  color: #64748b;
+  font-size: 0.9rem;
+}
+
+code, .php-output {
+  background: #1e293b;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  color: #a5f3fc;
+  font-family: "Fira Code", monospace;
+}
+
+/* ---------------------------
+   🌞 Auto Light Mode (System)
+---------------------------- */
+@media (prefers-color-scheme: light) {
+  body {
+    background: linear-gradient(135deg, #f8fafc, #e2e8f0);
+    color: #1e293b;
+  }
+
+  h1, h2, h3 {
+    color: #0369a1;
+  }
+
+  h2 {
+    border-bottom: 2px solid #0ea5e9;
+  }
+
+  p {
+    color: #334155;
+  }
+
+  footer {
+    border-top: 1px solid #cbd5e1;
+    color: #64748b;
+  }
+
+  code, .php-output {
+    background: #f1f5f9;
+    color: #075985;
+  }
+
+  #theme-toggle {
+    background: #e2e8f0;
+    color: #0f172a;
+  }
+}
+
+/* ---------------------------
+   🌞 Manual Light Mode (Override)
+---------------------------- */
+:root.light body {
+  background: linear-gradient(135deg, #f8fafc, #e2e8f0);
+  color: #1e293b;
+}
+
+:root.light h1,
+:root.light h2,
+:root.light h3 {
+  color: #0369a1;
+}
+
+:root.light h2 {
+  border-bottom: 2px solid #0ea5e9;
+}
+
+:root.light p { color: #334155; }
+
+:root.light footer {
+  border-top: 1px solid #cbd5e1;
+  color: #64748b;
+}
+
+:root.light code,
+:root.light .php-output {
+  background: #f1f5f9;
+  color: #075985;
+}
+
+:root.light #theme-toggle {
+  background: #e2e8f0;
+  color: #0f172a;
+}
+
+/* ---------------------------
+   🧭 Theme Toggle Button
+---------------------------- */
+#theme-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  background: #1e293b;
+  color: #f8fafc;
+  border: none;
+  border-radius: 50%;
+  font-size: 1.25rem;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  transition: background 0.3s ease, transform 0.2s ease;
+  z-index: 999;
+}
+
+#theme-toggle:hover {
+  transform: scale(1.1);
+}
+
+/* ---------------------------
+   📱 Responsive
+---------------------------- */
+@media (max-width: 600px) {
+  body { padding: 1rem; }
+  h1 { font-size: 1.6rem; }
+  h2 { font-size: 1.25rem; }
+}
+
+/* ---------------------------
+   ✨ Animation
+---------------------------- */
+body {
+  animation: fadeIn 0.7s ease-out;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
