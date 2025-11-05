@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hazmin/Coding Practices/C#/CsharpProjects/TestProject/TestProject.csproj",
+      "projectUniqueName": "/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "/Users/hazmin/Coding Practices/C#/CsharpProjects/TestProject/TestProject.csproj",
+      "projectPath": "/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/TestProject.csproj",
       "packagesPath": "/Users/hazmin/.nuget/packages/",
-      "outputPath": "/Users/hazmin/Coding Practices/C#/CsharpProjects/TestProject/obj/",
+      "outputPath": "/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hazmin/.nuget/NuGet/NuGet.Config"

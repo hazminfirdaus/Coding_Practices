@@ -12,3 +12,18 @@
 /Users/hazmin/Coding Practices/C#/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.pdb
 /Users/hazmin/Coding Practices/C#/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.genruntimeconfig.cache
 /Users/hazmin/Coding Practices/C#/CsharpProjects/TestProject/obj/Debug/net9.0/ref/TestProject.dll
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.deps.json
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.runtimeconfig.json
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.dll
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.pdb
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfoInputs.cache
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfo.cs
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.sourcelink.json
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.dll
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/obj/Debug/net9.0/refint/TestProject.dll
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.pdb
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.genruntimeconfig.cache
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/TestProject/obj/Debug/net9.0/ref/TestProject.dll
