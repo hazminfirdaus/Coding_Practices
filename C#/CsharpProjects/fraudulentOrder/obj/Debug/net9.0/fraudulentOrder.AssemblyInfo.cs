@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fraudulentOrder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+830362887ec30dc035898ac9a38a205fbe977da6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a66c4e80bd3a472dfc26a2e25f235fa2b6792ec2")]
 [assembly: System.Reflection.AssemblyProductAttribute("fraudulentOrder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fraudulentOrder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
