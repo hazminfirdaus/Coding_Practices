@@ -1,0 +1,15 @@
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/fraudulentOrder/bin/Debug/net9.0/fraudulentOrder
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/fraudulentOrder/bin/Debug/net9.0/fraudulentOrder.deps.json
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/fraudulentOrder/bin/Debug/net9.0/fraudulentOrder.runtimeconfig.json
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/fraudulentOrder/bin/Debug/net9.0/fraudulentOrder.dll
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/fraudulentOrder/bin/Debug/net9.0/fraudulentOrder.pdb
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/fraudulentOrder/obj/Debug/net9.0/fraudulentOrder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/fraudulentOrder/obj/Debug/net9.0/fraudulentOrder.AssemblyInfoInputs.cache
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/fraudulentOrder/obj/Debug/net9.0/fraudulentOrder.AssemblyInfo.cs
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/fraudulentOrder/obj/Debug/net9.0/fraudulentOrder.csproj.CoreCompileInputs.cache
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/fraudulentOrder/obj/Debug/net9.0/fraudulentOrder.sourcelink.json
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/fraudulentOrder/obj/Debug/net9.0/fraudulentOrder.dll
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/fraudulentOrder/obj/Debug/net9.0/refint/fraudulentOrder.dll
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/fraudulentOrder/obj/Debug/net9.0/fraudulentOrder.pdb
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/fraudulentOrder/obj/Debug/net9.0/fraudulentOrder.genruntimeconfig.cache
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/fraudulentOrder/obj/Debug/net9.0/ref/fraudulentOrder.dll
