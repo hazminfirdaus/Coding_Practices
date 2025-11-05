@@ -1,0 +1,15 @@
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/readableCode/bin/Debug/net9.0/readableCode
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/readableCode/bin/Debug/net9.0/readableCode.deps.json
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/readableCode/bin/Debug/net9.0/readableCode.runtimeconfig.json
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/readableCode/bin/Debug/net9.0/readableCode.dll
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/readableCode/bin/Debug/net9.0/readableCode.pdb
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/readableCode/obj/Debug/net9.0/readableCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/readableCode/obj/Debug/net9.0/readableCode.AssemblyInfoInputs.cache
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/readableCode/obj/Debug/net9.0/readableCode.AssemblyInfo.cs
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/readableCode/obj/Debug/net9.0/readableCode.csproj.CoreCompileInputs.cache
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/readableCode/obj/Debug/net9.0/readableCode.sourcelink.json
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/readableCode/obj/Debug/net9.0/readableCode.dll
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/readableCode/obj/Debug/net9.0/refint/readableCode.dll
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/readableCode/obj/Debug/net9.0/readableCode.pdb
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/readableCode/obj/Debug/net9.0/readableCode.genruntimeconfig.cache
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/readableCode/obj/Debug/net9.0/ref/readableCode.dll
