@@ -1,0 +1,15 @@
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/GuidedProject/Starter/bin/Debug/net9.0/Starter
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/GuidedProject/Starter/bin/Debug/net9.0/Starter.deps.json
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/GuidedProject/Starter/bin/Debug/net9.0/Starter.runtimeconfig.json
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/GuidedProject/Starter/bin/Debug/net9.0/Starter.dll
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/GuidedProject/Starter/bin/Debug/net9.0/Starter.pdb
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/GuidedProject/Starter/obj/Debug/net9.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/GuidedProject/Starter/obj/Debug/net9.0/Starter.AssemblyInfoInputs.cache
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/GuidedProject/Starter/obj/Debug/net9.0/Starter.AssemblyInfo.cs
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/GuidedProject/Starter/obj/Debug/net9.0/Starter.csproj.CoreCompileInputs.cache
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/GuidedProject/Starter/obj/Debug/net9.0/Starter.sourcelink.json
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/GuidedProject/Starter/obj/Debug/net9.0/Starter.dll
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/GuidedProject/Starter/obj/Debug/net9.0/refint/Starter.dll
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/GuidedProject/Starter/obj/Debug/net9.0/Starter.pdb
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/GuidedProject/Starter/obj/Debug/net9.0/Starter.genruntimeconfig.cache
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/GuidedProject/Starter/obj/Debug/net9.0/ref/Starter.dll
