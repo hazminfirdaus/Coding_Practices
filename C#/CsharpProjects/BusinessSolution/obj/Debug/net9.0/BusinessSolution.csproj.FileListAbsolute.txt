@@ -1,0 +1,15 @@
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/BusinessSolution/bin/Debug/net9.0/BusinessSolution
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/BusinessSolution/bin/Debug/net9.0/BusinessSolution.deps.json
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/BusinessSolution/bin/Debug/net9.0/BusinessSolution.runtimeconfig.json
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/BusinessSolution/bin/Debug/net9.0/BusinessSolution.dll
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/BusinessSolution/bin/Debug/net9.0/BusinessSolution.pdb
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/BusinessSolution/obj/Debug/net9.0/BusinessSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/BusinessSolution/obj/Debug/net9.0/BusinessSolution.AssemblyInfoInputs.cache
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/BusinessSolution/obj/Debug/net9.0/BusinessSolution.AssemblyInfo.cs
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/BusinessSolution/obj/Debug/net9.0/BusinessSolution.csproj.CoreCompileInputs.cache
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/BusinessSolution/obj/Debug/net9.0/BusinessSolution.sourcelink.json
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/BusinessSolution/obj/Debug/net9.0/BusinessSolution.dll
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/BusinessSolution/obj/Debug/net9.0/refint/BusinessSolution.dll
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/BusinessSolution/obj/Debug/net9.0/BusinessSolution.pdb
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/BusinessSolution/obj/Debug/net9.0/BusinessSolution.genruntimeconfig.cache
+/Users/hazmin/Coding_Practices/C#/CsharpProjects/BusinessSolution/obj/Debug/net9.0/ref/BusinessSolution.dll
